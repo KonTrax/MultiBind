@@ -2,6 +2,16 @@
 
 This is currently only a prototype written without ever having used python before this point. Will keep adding to it as my requirements expand and is very much a work in progress.
 
+## Usage
+
+Toggle:
+
+	{"keys":["whatever"], "command":"multibind_toggle", "args":{ "layout": "BARRIERNAME" }}
+
+Barrier:
+
+	... "context": [{"key":"multibind.BARRIERNAME"}] ...
+
 ## Usage Example
 	// Toggle "wasd" layout
 	{ "keys": ["alt+\\"],
