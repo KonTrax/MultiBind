@@ -52,6 +52,18 @@ Barrier:
 		{	"key": "multibind.wasd" }
 	]},
 
+## ToDo
+- Get code cleaned for release version
+- Test code on ST2
+- Put on Package Control
+- Optimization (continuous)
+- Finish this readme
+
+## Planned features
+- Partial keyboard layouts (multiple barrier non-conflicting de-activation)
+- Timed barrier reactivation
+- Settings
+
 ## Installation
 
 [to come]
